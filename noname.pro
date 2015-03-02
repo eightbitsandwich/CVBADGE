@@ -1,4 +1,4 @@
-update=3/1/2015 4:22:45 PM
+update=3/1/2015 5:58:39 PM
 version=1
 last_client=kicad
 [general]
@@ -27,9 +27,22 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
 [eeschema]
 version=1
-LibDir=../../Users/Darkstar/Desktop/converted
+LibDir=footprints
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -64,16 +77,3 @@ LibName30=valves
 LibName31=C:/Users/Darkstar/Desktop/embedded-microcontrollers
 LibName32=C:/Users/Darkstar/Desktop/converted/nordic-semi
 LibName33=C:/Users/Darkstar/Desktop/converted/nrf24l01
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60

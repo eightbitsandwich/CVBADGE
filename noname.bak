@@ -38,9 +38,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Crypto Village Badge"
+Date "Sunday, March 01, 2015"
+Rev "-"
 Comp ""
 Comment1 ""
 Comment2 ""
