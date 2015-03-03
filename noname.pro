@@ -1,4 +1,4 @@
-update=3/1/2015 5:58:39 PM
+update=3/2/2015 7:20:41 PM
 version=1
 last_client=kicad
 [general]
@@ -42,7 +42,7 @@ RptLab=1
 LabSize=60
 [eeschema]
 version=1
-LibDir=footprints
+LibDir=footprints;footprints;../../../Users/Darkstar/Desktop/converted
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -77,3 +77,7 @@ LibName30=valves
 LibName31=C:/Users/Darkstar/Desktop/embedded-microcontrollers
 LibName32=C:/Users/Darkstar/Desktop/converted/nordic-semi
 LibName33=C:/Users/Darkstar/Desktop/converted/nrf24l01
+LibName34=footprints/nrf24l01-QFN20
+LibName35=footprints.pretty/nrf24l01-QFN20
+LibName36=noname-cache
+LibName37=C:/Users/Darkstar/Desktop/converted/CV_BADGE

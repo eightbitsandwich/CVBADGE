@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 3/2/2015 8:40:34 PM
+
+BeginCmp
+TimeStamp = /54F25185;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F38F1D;
+Reference = C1;
+ValeurCmp = 22pF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F38F7C;
+Reference = C2;
+ValeurCmp = 22pF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F38994;
+Reference = C3;
+ValeurCmp = 33nF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F2AA40;
+Reference = C4;
+ValeurCmp = 10pf;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F2AC61;
+Reference = C5;
+ValeurCmp = 10pf;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F39834;
+Reference = C6;
+ValeurCmp = 2.2nF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F39891;
+Reference = C7;
+ValeurCmp = 4.7pF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F39A63;
+Reference = C8;
+ValeurCmp = 1.5pF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F39AA6;
+Reference = C9;
+ValeurCmp = 1.0pF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F2528A;
+Reference = C10;
+ValeurCmp = 22uf;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F25371;
+Reference = C11;
+ValeurCmp = 10uf;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F256AA;
+Reference = C12;
+ValeurCmp = C;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F253BA;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F39523;
+Reference = L1;
+ValeurCmp = 8.2nH;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F3949A;
+Reference = L2;
+ValeurCmp = 3.9nH;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F39568;
+Reference = L3;
+ValeurCmp = 2.7nH;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F27CBA;
+Reference = P1;
+ValeurCmp = CONN_01X07;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F3D0B5;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F3A73F;
+Reference = R2;
+ValeurCmp = 22k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F3687D;
+Reference = U1;
+ValeurCmp = NRF24L01;
+IdModule  = CVBADGE:nrf24l01-QFN20;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F240CC;
+Reference = U2;
+ValeurCmp = MSP430G2955IRHA40;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F24F4F;
+Reference = U3;
+ValeurCmp = RT9193;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F38B90;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F3BBDA;
+Reference = X2;
+ValeurCmp = CRYSTAL;
+IdModule  = ;
+EndCmp
+
+EndListe
